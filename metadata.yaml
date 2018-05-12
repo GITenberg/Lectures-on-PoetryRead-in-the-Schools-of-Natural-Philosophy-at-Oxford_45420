@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38098'
     url: http://www.gutenberg.org/2009/agents/38098
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45420#Lectures-on-PoetryRead-in-the-Schools-of-Natural-Philosophy-at-Oxford
 gutenberg_issued: '2014-04-16'
 gutenberg_type: Text
 identifiers:
