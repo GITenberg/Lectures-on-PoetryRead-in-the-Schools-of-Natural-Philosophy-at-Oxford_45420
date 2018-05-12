@@ -1,0 +1,29 @@
+_repo: Lectures-on-PoetryRead-in-the-Schools-of-Natural-Philosophy-at-Oxford_45420
+_version: 0.1.0
+alternative_title: Prælectiones poeticae. English
+covers:
+- cover_type: archival
+  image_path: 45420-h/images/cover_image.jpg
+creator:
+  author:
+    agent_name: Trapp, Joseph
+    birthdate: 1679
+    deathdate: 1747
+    gutenberg_agent_id: '38098'
+    url: http://www.gutenberg.org/2009/agents/38098
+description: ''
+gutenberg_issued: '2014-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45420'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Poetry -- Early works to 1800'
+title: 'Lectures on Poetry
+
+  Read in the Schools of Natural Philosophy at Oxford'
+url: http://www.gutenberg.org/ebooks/45420
